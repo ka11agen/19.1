@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int i1=1, i2=0, i3=0, i4=0, i5=0, i6=0, z;
-            Console.WriteLine("Список удачных билетов (сумма его цифр делится на 7):");
+
           
             while(i1<10)
             {
